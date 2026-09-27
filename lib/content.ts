@@ -20,7 +20,7 @@ export type Stat = { value: number | null; suffix?: string; display?: string; la
 export const BUILDER_STATS: Stat[] = [
   { value: 50, suffix: "%", label: "Faster", caption: "Average handling time cut vs. manual AHT benchmarks" },
   { value: null, display: "≈0", label: "Near-Zero Errors", caption: "Structured extraction replaced manual copy-paste" },
-  { value: null, display: "PA + AI + Macros", label: "Power Automate + Copilot AI + Excel", caption: "CRM capture pipeline feeding a custom Copilot agent with Pivot automation" },
+  { value: null, display: "PA + AI + Macros", label: "Power Automate + Copilot AI + Excel", caption: "CRM capture pipeline feeding a custom Copilot agent along with Pivot automation" },
 ];
 
 export const EXTRACTED_FIELDS = [
