@@ -9,7 +9,7 @@ export const NAV_LINKS = [
 
 export const CONTACT = {
   email: "psharmagrg@gmail.com",
-  linkedin: "www.linkedin.com/in/piyush-sharma-ps2197",
+  linkedin: "https://www.linkedin.com/in/piyush-sharma-ps2197",
 };
 
 export const ABOUT_TEXT =
