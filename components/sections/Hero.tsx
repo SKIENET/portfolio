@@ -8,7 +8,7 @@ import { useScrollTo } from "../SmoothScroll";
 
 const ParticleNetwork = dynamic(() => import("../ParticleNetwork"), { ssr: false });
 
-const REGIONS = ["APAC", "MENA", "UK", "UAE", "Nordic"];
+const REGIONS = ["APAC", "MENA", "UK", "UAE", "Nordic", "Australia"];
 
 export default function Hero() {
   const scrollTo = useScrollTo();
