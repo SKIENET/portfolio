@@ -54,6 +54,8 @@ export const ROLES: Role[] = [
     phase: "The Entry Point",
     summary: "Where it started — learning to read the story behind the transactions.",
     points: ["Transaction monitoring across alert queues", "AML investigations and escalations", "Built the foundation in typologies and red flags", "Star performer"],
+    region: ["Australia"],
+    current: true,
   },
   {
     title: "Process Developer",
@@ -71,7 +73,7 @@ export const ROLES: Role[] = [
       "Mentored 1–3 new analysts per batch",
       "Escalating unresolved high-risk cases to CEO, Chief Risk Officer, and AMLRO for relationship retention or termination decisions"
     ],
-    regions: ["APAC", "MENA", "UK", "UAE", "Nordic", "MER", "Australia"],
+    regions: ["APAC", "MENA", "UK", "UAE", "Nordic", "MER"],
     current: true,
   },
 ];
