@@ -10,6 +10,10 @@ export const metadata: Metadata = {
   title: "Piyush Sharma — Senior AML/KYC Professional",
   description:
     "Senior AML/KYC professional in financial crime compliance with 4+ years across APAC, MENA, UK, UAE & Nordic — and a builder of compliance automation.",
+  icons: {
+    icon: "/logo.png",
+  },
+};
 };
 
 export const viewport: Viewport = {
