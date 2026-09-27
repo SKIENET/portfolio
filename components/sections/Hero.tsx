@@ -63,7 +63,7 @@ export default function Hero() {
         >
           <p>
             Senior AML/KYC Professional <span className="text-electric-500">|</span> Financial Crime Compliance{" "}
-            <span className="text-electric-500">|</span> Risk Identification and Mitigation <span className="text-electric-500">|</span> 4+ Years across APAC, MENA, UK, UAE &amp; Nordic
+            <span className="text-electric-500">|</span> Risk Identification and Mitigation <span className="text-electric-500">|</span> 4.5+ Years across APAC, MENA, UK, Australia, UAE &amp; Nordic
           </p>
         </motion.div>
 
