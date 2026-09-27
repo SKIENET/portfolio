@@ -13,7 +13,7 @@ export const CONTACT = {
 };
 
 export const ABOUT_TEXT =
-  "I've spent the last 4+ years in the thick of financial crime compliance — investigating complex money laundering typologies, building quality frameworks, and working across some of the world's most varied regulatory environments. What keeps me going isn't just catching the bad guys — it's finding smarter, cleaner ways to do it. I believe compliance professionals who understand technology have a real edge, and I've made it a point to be one of them.";
+  "I've spent the last 4.5+ years in the thick of financial crime compliance — investigating complex money laundering typologies, building quality frameworks, and working across some of the world's most varied regulatory environments. What keeps me going isn't just catching the bad guys — it's finding smarter, cleaner ways to do it. I believe compliance professionals who understand technology have a real edge, and I've made it a point to be one of them.";
 
 export type Stat = { value: number | null; suffix?: string; display?: string; label: string; caption: string };
 
