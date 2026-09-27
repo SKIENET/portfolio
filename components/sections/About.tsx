@@ -9,7 +9,7 @@ import SpotlightCard from "../SpotlightCard";
 import { useScrollReveal } from "../useScrollReveal";
 
 const FACTS = [
-  { k: "4+", v: "Years in financial crime compliance" },
+  { k: "4.5+", v: "Years in financial crime compliance" },
   { k: "6", v: "Regulatory regions covered" },
   { k: "98%+", v: "QC accuracy rate" },
 ];
