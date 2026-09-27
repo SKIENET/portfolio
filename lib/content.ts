@@ -60,7 +60,7 @@ export const ROLES: Role[] = [
     phase: "The Optimiser",
     summary: "Moved from prcessing the cases to being a part of it.",
     points: ["Transaction Monitoring for a big 4 Australian Bank", "Analyzing AML typologies based on client's transactional behaviour along with any potential CSE activity", "SAR/SMR/TTR and Disclosure reporting to Austrac", "Report automation via macros"],
-    region: ["Australia"],
+    regions: ["Australia"],
     current: true,
   },
   {
