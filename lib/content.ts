@@ -54,14 +54,14 @@ export const ROLES: Role[] = [
     phase: "The Entry Point",
     summary: "Where it started — learning to read the story behind the transactions.",
     points: ["Transaction monitoring across alert queues", "AML investigations and escalations", "Built the foundation in typologies and red flags", "Star performer"],
-    region: ["Australia"],
-    current: true,
   },
   {
     title: "Process Developer",
     phase: "The Optimiser",
     summary: "Moved from prcessing the cases to being a part of it.",
     points: ["Transaction Monitoring for a big 4 Australian Bank", "Analyzing AML typologies based on client's transactional behaviour along with any potential CSE activity", "SAR/SMR/TTR and Disclosure reporting to Austrac", "Report automation via macros"],
+    region: ["Australia"],
+    current: true,
   },
   {
     title: "Senior KYC Analyst & QC Reviewer",
