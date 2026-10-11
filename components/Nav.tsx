@@ -36,8 +36,7 @@ export default function Nav() {
       <motion.div style={{ scaleX: progress }} className="absolute inset-x-0 bottom-0 h-px origin-left bg-gradient-to-r from-electric-500 to-cyanglow" />
       <nav className="mx-auto flex h-16 max-w-7xl items-center justify-between px-5 sm:px-8">
         <button type="button" onClick={() => go("hero")} className="group flex items-center gap-2 font-display text-lg font-bold tracking-tight">
-          <img src="/avatar.png" alt="Piyush Sharma" className="h-8 w-8 rounded-lg object-cover object-top transition-transform duration-300 group-hover:rotate-12" />
-          <span className="hidden sm:inline">Piyush Sharma</span>
+          <img src="/signature.png" alt="Piyush Sharma" className="h-9 w-auto transition-opacity duration-300 group-hover:opacity-80" />
         </button>
 
         <ul className="hidden items-center gap-1 md:flex">
