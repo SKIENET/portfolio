@@ -1,4 +1,5 @@
 import SmoothScroll from "@/components/SmoothScroll";
+import Loader from "@/components/Loader";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import Hero from "@/components/sections/Hero";
