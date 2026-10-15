@@ -13,6 +13,7 @@ import Contact from "@/components/sections/Contact";
 export default function Home() {
   return (
     <SmoothScroll>
+      <Loader />
       <Nav />
       <main className="overflow-x-clip">
         <Hero />
